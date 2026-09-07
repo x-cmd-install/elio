@@ -5,7 +5,7 @@ about:
   head: 3a39678
   archived: false
   latestVersion: "v1.12.0"
-  collectedAt: 2026-09-07T05:05:35Z
+  collectedAt: 2026-09-07T19:28:52Z
 timeline:
   created: 2026-03-09
   lastCommit: 2026-08-30
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 856
   watcher: 5
-  fork: 26
+  fork: 27
   release: 17
   contributor: 4
   pullRequest: 208
@@ -80,7 +80,7 @@ total:
   commit: 586
 ---
 path: /home/runner/.x-repo/github.com/elio-fm/elio
-collectedAt: 2026-09-07T05:05:37Z
+collectedAt: 2026-09-07T19:28:54Z
 loc:
   Rust:
     code: 117691
@@ -116,7 +116,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:05:38+00:00
+  collectedAt: 2026-09-07T19:28:54+00:00
   platform:
     darwin/arm64:
       name:  elio-1.12.0-aarch64-apple-darwin.tar.gz
