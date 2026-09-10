@@ -23,7 +23,17 @@ x install elio
 - **Latest**: `v1.12.0` (2026-08-24)
 - **Last commit**: 2026-08-30
 - **Assets in release**: 6
-- **Published**: 2026-08-24T13:29:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [elio-1.12.0-aarch64-apple-darwin.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-aarch64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
+| [elio-1.12.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-aarch64-unknown-linux-gnu.tar.gz) | 6.0 MiB | `native/linux/arm64/glibc` |
+| [elio-1.12.0-x86_64-pc-windows-msvc.zip](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-x86_64-pc-windows-msvc.zip) | 5.8 MiB | `native/win/x64` |
+| [elio-1.12.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-x86_64-unknown-linux-gnu.tar.gz) | 6.4 MiB | `native/linux/x64/glibc` |
+| [elio_amd64.deb](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio_amd64.deb) | 5.0 MiB | `runtime/deb/amd64` |
+| [elio_arm64.deb](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio_arm64.deb) | 4.4 MiB | `runtime/deb/arm64` |
 
 ## Popularity
 
@@ -58,8 +68,8 @@ Total: **123,174** lines of code across **446** files in the top 5 languages.
 Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `elio` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/elio.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/elio.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:20:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:55:11Z._
