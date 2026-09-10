@@ -12,6 +12,18 @@ Snappy, batteries-included terminal file manager with rich previews, inline imag
 x install elio
 ```
 
+## 代码规模
+
+合计: **123,174** 行代码（覆盖前 5 种语言、共 **446** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 117,691 | 1,276 | 12,616 | 423 |
+| Toml | 5,332 | 179 | 1,386 | 14 |
+| RPMSpecfile | 115 | 0 | 26 | 1 |
+| Makefile | 36 | 0 | 2 | 1 |
+| Markdown | 0 | 766 | 299 | 7 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/elio-fm/elio>
@@ -23,17 +35,6 @@ x install elio
 - **最新版本**: `v1.12.0` (2026-08-24)
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 6 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [elio-1.12.0-aarch64-apple-darwin.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-aarch64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
-| [elio-1.12.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-aarch64-unknown-linux-gnu.tar.gz) | 6.0 MiB | `native/linux/arm64/glibc` |
-| [elio-1.12.0-x86_64-pc-windows-msvc.zip](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-x86_64-pc-windows-msvc.zip) | 5.8 MiB | `native/win/x64` |
-| [elio-1.12.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-x86_64-unknown-linux-gnu.tar.gz) | 6.4 MiB | `native/linux/x64/glibc` |
-| [elio_amd64.deb](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio_amd64.deb) | 5.0 MiB | `runtime/deb/amd64` |
-| [elio_arm64.deb](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio_arm64.deb) | 4.4 MiB | `runtime/deb/arm64` |
 
 ## 流行度
 
@@ -48,20 +49,30 @@ x install elio
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 5 | 0 | 2 | 1 | 17 |
+| last60d | 2026-07-12 | 4 | 31 | 0 | 10 | 4 | 54 |
 | 90d | 2026-06-12 | 6 | 76 | 0 | 23 | 4 | 101 |
+| last180d | 2026-03-14 | 17 | 205 | 0 | 66 | 5 | 477 |
 | 360d | 2025-09-15 | 17 | 205 | 0 | 66 | 5 | 579 |
+| last720d | 2024-09-20 | 17 | 205 | 0 | 66 | 5 | 586 |
 
-## 代码规模
+## Release 资产
 
-合计: **123,174** 行代码（覆盖前 5 种语言、共 **446** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [elio-1.12.0-aarch64-apple-darwin.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-aarch64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
+| [elio-1.12.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-aarch64-unknown-linux-gnu.tar.gz) | 6.0 MiB | `native/linux/arm64/glibc` |
+| [elio-1.12.0-x86_64-pc-windows-msvc.zip](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-x86_64-pc-windows-msvc.zip) | 5.8 MiB | `native/win/x64` |
+| [elio-1.12.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio-1.12.0-x86_64-unknown-linux-gnu.tar.gz) | 6.4 MiB | `native/linux/x64/glibc` |
+| [elio_amd64.deb](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio_amd64.deb) | 5.0 MiB | `runtime/deb/amd64` |
+| [elio_arm64.deb](https://github.com/elio-fm/elio/releases/download/v1.12.0/elio_arm64.deb) | 4.4 MiB | `runtime/deb/arm64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 117,691 | 1,276 | 12,616 | 423 |
-| Toml | 5,332 | 179 | 1,386 | 14 |
-| RPMSpecfile | 115 | 0 | 26 | 1 |
-| Makefile | 36 | 0 | 2 | 1 |
-| Markdown | 0 | 766 | 299 | 7 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/elio) 上共有 **7** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.12.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -72,4 +83,4 @@ elio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:43:30Z._
