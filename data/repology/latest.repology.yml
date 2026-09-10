@@ -1,0 +1,87 @@
+- repo: alt_p11
+  srcname: elio
+  binnames:
+    - elio
+    - elio-debuginfo
+  visiblename: elio
+  version: 1.12.0
+  origversion: 1.12.0-alt1
+  status: newest
+  summary: Snappy, batteries-included terminal file manager
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - File tools
+- repo: altsisyphus
+  srcname: elio
+  binnames:
+    - elio
+    - elio-debuginfo
+  visiblename: elio
+  version: 1.12.0
+  origversion: 1.12.0-alt1
+  status: newest
+  summary: Snappy, batteries-included terminal file manager
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - File tools
+- repo: aur
+  srcname: elio
+  binname: elio
+  visiblename: elio
+  version: 1.12.0
+  origversion: 1.12.0-1
+  status: newest
+  summary: Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
+  maintainers:
+    - miguelregueiro@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: elio-bin
+  binname: elio-bin
+  visiblename: elio-bin
+  version: 1.12.0
+  origversion: 1.12.0-1
+  status: newest
+  summary: Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support (prebuilt binary)
+  maintainers:
+    - miguelregueiro@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: elio-git
+  binname: elio-git
+  visiblename: elio-git
+  version: 1.10.0.r0.g5e35338
+  origversion: 1.10.0.r0.g5e35338-1
+  status: rolling
+  summary: Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: sysutils/elio
+  binname: elio
+  visiblename: sysutils/elio
+  version: 1.12.0
+  origversion: 1.12.0_1
+  status: newest
+  summary: Snappy terminal file manager with rich previews and trash support
+  maintainers:
+    - miguelpr4242@gmail.com
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: elio
+  visiblename: elio
+  version: 1.12.0
+  origversion: null
+  status: newest
+  summary: Batteries-included terminal file manager with rich previews
