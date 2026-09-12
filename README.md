@@ -38,7 +38,7 @@ Total: **123,174** lines of code across **446** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 856 · **Forks**: 27 · **Open issues**: 71 · **Contributors**: 4
+- **Stars**: 857 · **Forks**: 27 · **Open issues**: 71 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **123,174** lines of code across **446** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 5 | 0 | 2 | 1 | 17 |
-| last60d | 2026-07-13 | 4 | 30 | 0 | 10 | 4 | 54 |
-| 90d | 2026-06-13 | 6 | 73 | 0 | 23 | 4 | 101 |
-| last180d | 2026-03-15 | 17 | 205 | 0 | 66 | 5 | 477 |
-| 360d | 2025-09-16 | 17 | 205 | 0 | 66 | 5 | 579 |
-| last720d | 2024-09-21 | 17 | 205 | 0 | 66 | 5 | 586 |
+| 30d | 2026-08-13 | 1 | 5 | 0 | 1 | 1 | 17 |
+| last60d | 2026-07-14 | 4 | 29 | 0 | 10 | 4 | 54 |
+| 90d | 2026-06-14 | 6 | 69 | 0 | 23 | 4 | 101 |
+| last180d | 2026-03-16 | 17 | 205 | 0 | 66 | 5 | 477 |
+| 360d | 2025-09-17 | 17 | 205 | 0 | 66 | 5 | 579 |
+| last720d | 2024-09-22 | 17 | 205 | 0 | 66 | 5 | 586 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:13:33Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:04:14Z._
