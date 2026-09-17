@@ -14,15 +14,15 @@ x install elio
 
 ## Code insight
 
-Total: **124,732** lines of code across **646** files in the top 5 languages.
+Total: **124,982** lines of code across **650** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 118,880 | 1,091 | 12,872 | 623 |
-| Toml | 5,701 | 179 | 1,499 | 14 |
+| Rust | 119,130 | 1,101 | 12,891 | 627 |
+| Toml | 5,701 | 181 | 1,500 | 14 |
 | RPMSpecfile | 115 | 0 | 26 | 1 |
 | Makefile | 36 | 0 | 2 | 1 |
-| Markdown | 0 | 819 | 301 | 7 |
+| Markdown | 0 | 822 | 303 | 7 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **124,732** lines of code across **646** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.12.0` (2026-08-24)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-16
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 862 · **Forks**: 26 · **Open issues**: 73 · **Contributors**: 4
+- **Stars**: 864 · **Forks**: 26 · **Open issues**: 73 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 215 · **Open PRs**: 0 · **Closed issues**: 66 · **Open issues**: 7 · **Commits**: 648
+- **Releases**: 17 · **Merged PRs**: 216 · **Open PRs**: 0 · **Closed issues**: 67 · **Open issues**: 6 · **Commits**: 649
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 14 | 0 | 1 | 3 | 67 |
-| last60d | 2026-07-18 | 4 | 33 | 0 | 8 | 6 | 107 |
-| 90d | 2026-06-18 | 5 | 72 | 0 | 20 | 6 | 152 |
-| last180d | 2026-03-20 | 17 | 210 | 0 | 66 | 7 | 389 |
-| 360d | 2025-09-21 | 17 | 215 | 0 | 66 | 7 | 641 |
-| last720d | 2024-09-26 | 17 | 215 | 0 | 66 | 7 | 648 |
+| 30d | 2026-08-18 | 1 | 15 | 0 | 2 | 1 | 68 |
+| last60d | 2026-07-19 | 3 | 34 | 0 | 8 | 5 | 108 |
+| 90d | 2026-06-19 | 5 | 72 | 0 | 21 | 5 | 153 |
+| last180d | 2026-03-21 | 17 | 196 | 0 | 67 | 6 | 390 |
+| 360d | 2025-09-22 | 17 | 216 | 0 | 67 | 6 | 642 |
+| last720d | 2024-09-27 | 17 | 216 | 0 | 67 | 6 | 649 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:30:02Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:27:36Z._
