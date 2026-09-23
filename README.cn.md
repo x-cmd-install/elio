@@ -4,7 +4,7 @@
 
 Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 
-[![x-cmd/install — elio Code Quality Monitoring Repo Card](https://repo.x-cmd.io/elio.svg?lang=zh)](https://x-cmd.com/install/elio)
+[![x-cmd/install — elio Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/elio.svg?lang=zh)](https://x-cmd.com/install/elio)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install elio
 
 ## 流行度
 
-- **Star**: 867 · **Fork**: 26 · **开放 issue**: 74 · **贡献者**: 4
+- **Star**: 868 · **Fork**: 26 · **开放 issue**: 74 · **贡献者**: 4
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install elio
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 14 | 0 | 2 | 1 | 66 |
-| last60d | 2026-07-24 | 1 | 32 | 0 | 9 | 5 | 95 |
-| 90d | 2026-06-24 | 5 | 70 | 0 | 19 | 5 | 145 |
-| last180d | 2026-03-26 | 17 | 187 | 0 | 68 | 6 | 348 |
-| 360d | 2025-09-27 | 17 | 217 | 0 | 68 | 6 | 643 |
-| last720d | 2024-10-02 | 17 | 217 | 0 | 68 | 6 | 650 |
+| 30d | 2026-08-24 | 1 | 14 | 0 | 2 | 1 | 66 |
+| last60d | 2026-07-25 | 1 | 32 | 0 | 9 | 5 | 95 |
+| 90d | 2026-06-25 | 5 | 70 | 0 | 19 | 5 | 145 |
+| last180d | 2026-03-27 | 17 | 187 | 0 | 68 | 6 | 348 |
+| 360d | 2025-09-28 | 17 | 217 | 0 | 68 | 6 | 643 |
+| last720d | 2024-10-03 | 17 | 217 | 0 | 68 | 6 | 650 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ elio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:27:09Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:24:17Z._

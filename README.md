@@ -4,7 +4,7 @@
 
 Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 
-[![x-cmd/install — elio Code Quality Monitoring Repo Card](https://repo.x-cmd.io/elio.svg)](https://x-cmd.com/install/elio)
+[![x-cmd/install — elio Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/elio.svg)](https://x-cmd.com/install/elio)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **125,095** lines of code across **650** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 867 · **Forks**: 26 · **Open issues**: 74 · **Contributors**: 4
+- **Stars**: 868 · **Forks**: 26 · **Open issues**: 74 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **125,095** lines of code across **650** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 14 | 0 | 2 | 1 | 66 |
-| last60d | 2026-07-24 | 1 | 32 | 0 | 9 | 5 | 95 |
-| 90d | 2026-06-24 | 5 | 70 | 0 | 19 | 5 | 145 |
-| last180d | 2026-03-26 | 17 | 187 | 0 | 68 | 6 | 348 |
-| 360d | 2025-09-27 | 17 | 217 | 0 | 68 | 6 | 643 |
-| last720d | 2024-10-02 | 17 | 217 | 0 | 68 | 6 | 650 |
+| 30d | 2026-08-24 | 1 | 14 | 0 | 2 | 1 | 66 |
+| last60d | 2026-07-25 | 1 | 32 | 0 | 9 | 5 | 95 |
+| 90d | 2026-06-25 | 5 | 70 | 0 | 19 | 5 | 145 |
+| last180d | 2026-03-27 | 17 | 187 | 0 | 68 | 6 | 348 |
+| 360d | 2025-09-28 | 17 | 217 | 0 | 68 | 6 | 643 |
+| last720d | 2024-10-03 | 17 | 217 | 0 | 68 | 6 | 650 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:27:09Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:24:16Z._
