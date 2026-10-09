@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5950282,
       "digest": "sha256:c64442ec249b79889800122f78ebaa3e02bf87b7335aee7d7e2724a04ce25c12",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7674020,
       "digest": "sha256:8f3d8788311748af8edc6b9a88d0994caecd2e6cc93e60d82496e4376a2c214f",
-      "download_count": 2,
+      "download_count": 7,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6536107,
       "digest": "sha256:38762a71ba9f5b294f0981adf9962edbfe5409a4bfe93ecf3013a81ce1e323d3",
-      "download_count": 8,
+      "download_count": 19,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-x86_64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8115520,
       "digest": "sha256:5e6c288789f40d5aff6be2c954e695152c307a8964919e196dad9731105a98e3",
-      "download_count": 39,
+      "download_count": 87,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6185492,
       "digest": "sha256:ea8cb6f95d6d67ff44fdfee326ff08e95b26ec7e817df74d10729fcba11f3a84",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio_amd64.deb"
