@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5950282,
       "digest": "sha256:c64442ec249b79889800122f78ebaa3e02bf87b7335aee7d7e2724a04ce25c12",
-      "download_count": 8,
+      "download_count": 13,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6536107,
       "digest": "sha256:38762a71ba9f5b294f0981adf9962edbfe5409a4bfe93ecf3013a81ce1e323d3",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-x86_64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8115520,
       "digest": "sha256:5e6c288789f40d5aff6be2c954e695152c307a8964919e196dad9731105a98e3",
-      "download_count": 87,
+      "download_count": 110,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6185492,
       "digest": "sha256:ea8cb6f95d6d67ff44fdfee326ff08e95b26ec7e817df74d10729fcba11f3a84",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-10-07T19:20:40Z",
       "updated_at": "2026-10-07T19:20:41Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.13.0/elio_amd64.deb"
@@ -255,5 +255,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/elio-fm/elio/tarball/v1.13.0",
   "zipball_url": "https://api.github.com/repos/elio-fm/elio/zipball/v1.13.0",
-  "body": "### Added\n\n- Added XDG Desktop Portal FileChooser integration on Linux and FreeBSD, allowing elio to serve as the file chooser for desktop applications via `elio portal enable`, with independent routing for different desktop environments or window managers.\n- Added a Nix flake.\n- Added `Tab` as a keybinding to switch between files and folders in Fuzzy Find without clearing the query. ([#296])\n- Added `[preview] tab_width` to configure tab width in text and code previews (1–16 columns, default 4). ([#292])\n- Added image preview support for Rio. ([#303])\n- Added `[ui] folders_first` to optionally mix folders and files in the browser and directory previews.\n- Added `[ui] default_sort` to set the initial browser sort (name, modified, or size).\n- Added recursive folder size calculation in the background when sorting by size.\n- Added `--save-as` support for `--chooser-file`, adding Save As behavior through a dedicated popup. ([#273])\n\n### Changed\n\n- Improved Sixel preview speed and color quality.\n- Improved `--help` with cleaner formatting, terminal colors, and a link to the CLI documentation.\n\n### Fixed\n\n- Fixed Nushell integration not changing directory to symlinked folders on quit.\n- Fixed Sixel previews disappearing in tmux.\n- Fixed `-h` and `--help` for shell integration commands.\n- Fixed terminal applications using elio's startup folder as their working directory instead of the current folder. ([#293])\n- Fixed Git branch names truncating when space is available in the status bar.\n- Fixed the Git branch indicator staying stale after external branch switches, including in subfolders and linked worktrees.\n- Fixed name sorting by making it aware of the system locale, including accented characters and numeric names. ([#314])\n\n"
+  "body": "### Added\n\n- Added XDG Desktop Portal FileChooser integration on Linux and FreeBSD, allowing elio to serve as the file chooser for desktop applications via `elio portal enable`, with independent routing for different desktop environments or window managers.\n- Added a Nix flake.\n- Added `Tab` as a keybinding to switch between files and folders in Fuzzy Find without clearing the query. ([#296])\n- Added `[preview] tab_width` to configure tab width in text and code previews (1–16 columns, default 4). ([#292])\n- Added image preview support for Rio. ([#303])\n- Added `[ui] folders_first` to optionally mix folders and files in the browser and directory previews.\n- Added `[ui] default_sort` to set the initial browser sort (name, modified, or size).\n- Added recursive folder size calculation in the background when sorting by size.\n- Added `--save-as` support for `--chooser-file`, adding Save As behavior through a dedicated popup. ([#273])\n\n### Changed\n\n- Improved Sixel preview speed and color quality.\n- Improved `--help` with cleaner formatting, terminal colors, and a link to the CLI documentation.\n\n### Fixed\n\n- Fixed Nushell integration not changing directory to symlinked folders on quit.\n- Fixed Sixel previews disappearing in tmux.\n- Fixed `-h` and `--help` for shell integration commands.\n- Fixed terminal applications using elio's startup folder as their working directory instead of the current folder. ([#293])\n- Fixed Git branch names truncating when space is available in the status bar.\n- Fixed the Git branch indicator staying stale after external branch switches, including in subfolders and linked worktrees.\n- Fixed name sorting by making it aware of the system locale, including accented characters and numeric names. ([#314])\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/elio-fm/elio/releases/406086337/reactions",
+    "total_count": 10,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 1,
+    "hooray": 2,
+    "confused": 0,
+    "heart": 2,
+    "rocket": 1,
+    "eyes": 2
+  }
 }
