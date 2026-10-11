@@ -14,11 +14,11 @@ x install elio
 
 ## Code insight
 
-Total: **134,522** lines of code across **683** files in the top 5 languages.
+Total: **135,237** lines of code across **683** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 128,555 | 1,155 | 13,572 | 665 |
+| Rust | 129,270 | 1,160 | 13,620 | 665 |
 | Toml | 5,707 | 195 | 1,502 | 14 |
 | RPMSpecfile | 120 | 0 | 27 | 1 |
 | Nix | 104 | 11 | 10 | 2 |
@@ -33,27 +33,27 @@ Total: **134,522** lines of code across **683** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.0` (2026-10-07)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-10
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 891 · **Forks**: 27 · **Open issues**: 82 · **Contributors**: 4
+- **Stars**: 892 · **Forks**: 27 · **Open issues**: 84 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 235 · **Open PRs**: 1 · **Closed issues**: 77 · **Open issues**: 5 · **Commits**: 699
+- **Releases**: 18 · **Merged PRs**: 241 · **Open PRs**: 1 · **Closed issues**: 77 · **Open issues**: 7 · **Commits**: 705
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 1 | 30 | 1 | 8 | 2 | 0 |
-| last60d | 2026-08-11 | 2 | 35 | 1 | 11 | 2 | 0 |
-| 90d | 2026-07-12 | 5 | 61 | 1 | 20 | 4 | 0 |
-| last180d | 2026-04-13 | 16 | 181 | 1 | 77 | 5 | 0 |
-| 360d | 2025-10-15 | 18 | 235 | 1 | 77 | 5 | 0 |
-| last720d | 2024-10-20 | 18 | 235 | 1 | 77 | 5 | 699 |
+| 30d | 2026-09-11 | 1 | 36 | 1 | 8 | 4 | 108 |
+| last60d | 2026-08-12 | 2 | 41 | 1 | 11 | 4 | 136 |
+| 90d | 2026-07-13 | 5 | 66 | 1 | 20 | 6 | 172 |
+| last180d | 2026-04-14 | 16 | 187 | 1 | 77 | 7 | 322 |
+| 360d | 2025-10-16 | 18 | 241 | 1 | 77 | 7 | 695 |
+| last720d | 2024-10-21 | 18 | 241 | 1 | 77 | 7 | 705 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:13:56Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:08:11Z._
