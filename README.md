@@ -14,13 +14,13 @@ x install elio
 
 ## Code insight
 
-Total: **137,694** lines of code across **688** files in the top 5 languages.
+Total: **137,720** lines of code across **688** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 131,752 | 1,174 | 13,868 | 670 |
+| Rust | 131,774 | 1,174 | 13,873 | 670 |
 | Toml | 5,682 | 195 | 1,513 | 14 |
-| RPMSpecfile | 120 | 0 | 27 | 1 |
+| RPMSpecfile | 124 | 0 | 28 | 1 |
 | Nix | 104 | 11 | 10 | 2 |
 | Makefile | 36 | 0 | 2 | 1 |
 
@@ -32,39 +32,39 @@ Total: **137,694** lines of code across **688** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.13.0` (2026-10-07)
-- **Last commit**: 2026-10-17
+- **Latest**: `v1.14.0` (2026-10-19)
+- **Last commit**: 2026-10-19
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 900 · **Forks**: 34 · **Open issues**: 96 · **Contributors**: 6
+- **Stars**: 900 · **Forks**: 35 · **Open issues**: 96 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 254 · **Open PRs**: 0 · **Closed issues**: 87 · **Open issues**: 9 · **Commits**: 722
+- **Releases**: 19 · **Merged PRs**: 255 · **Open PRs**: 0 · **Closed issues**: 87 · **Open issues**: 9 · **Commits**: 724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 37 | 0 | 15 | 6 | 69 |
-| last60d | 2026-08-20 | 2 | 53 | 0 | 19 | 6 | 137 |
-| 90d | 2026-07-21 | 3 | 70 | 0 | 27 | 8 | 174 |
-| last180d | 2026-04-22 | 15 | 192 | 0 | 87 | 9 | 327 |
-| 360d | 2025-10-24 | 18 | 254 | 0 | 87 | 9 | 714 |
-| last720d | 2024-10-29 | 18 | 254 | 0 | 87 | 9 | 722 |
+| 30d | 2026-09-20 | 2 | 38 | 0 | 15 | 6 | 71 |
+| last60d | 2026-08-21 | 3 | 53 | 0 | 19 | 6 | 139 |
+| 90d | 2026-07-22 | 4 | 71 | 0 | 27 | 8 | 176 |
+| last180d | 2026-04-23 | 16 | 192 | 0 | 87 | 9 | 329 |
+| 360d | 2025-10-25 | 19 | 255 | 0 | 87 | 9 | 716 |
+| last720d | 2024-10-30 | 19 | 255 | 0 | 87 | 9 | 724 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [elio-1.13.0-aarch64-apple-darwin.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-aarch64-apple-darwin.tar.gz) | 5.7 MiB | `native/darwin/arm64` |
-| [elio-1.13.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-aarch64-unknown-linux-gnu.tar.gz) | 7.3 MiB | `native/linux/arm64/glibc` |
-| [elio-1.13.0-x86_64-pc-windows-msvc.zip](https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
-| [elio-1.13.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.13.0/elio-1.13.0-x86_64-unknown-linux-gnu.tar.gz) | 7.7 MiB | `native/linux/x64/glibc` |
-| [elio_amd64.deb](https://github.com/elio-fm/elio/releases/download/v1.13.0/elio_amd64.deb) | 5.9 MiB | `runtime/deb/amd64` |
-| [elio_arm64.deb](https://github.com/elio-fm/elio/releases/download/v1.13.0/elio_arm64.deb) | 5.3 MiB | `runtime/deb/arm64` |
+| [elio-1.14.0-aarch64-apple-darwin.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.14.0/elio-1.14.0-aarch64-apple-darwin.tar.gz) | 5.7 MiB | `native/darwin/arm64` |
+| [elio-1.14.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.14.0/elio-1.14.0-aarch64-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/arm64/glibc` |
+| [elio-1.14.0-x86_64-pc-windows-msvc.zip](https://github.com/elio-fm/elio/releases/download/v1.14.0/elio-1.14.0-x86_64-pc-windows-msvc.zip) | 6.3 MiB | `native/win/x64` |
+| [elio-1.14.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/elio-fm/elio/releases/download/v1.14.0/elio-1.14.0-x86_64-unknown-linux-gnu.tar.gz) | 7.8 MiB | `native/linux/x64/glibc` |
+| [elio_amd64.deb](https://github.com/elio-fm/elio/releases/download/v1.14.0/elio_amd64.deb) | 5.9 MiB | `runtime/deb/amd64` |
+| [elio_arm64.deb](https://github.com/elio-fm/elio/releases/download/v1.14.0/elio_arm64.deb) | 5.3 MiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:01:50Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:15:15Z._
