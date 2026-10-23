@@ -38,22 +38,22 @@ x install elio
 
 ## 流行度
 
-- **Star**: 901 · **Fork**: 30 · **开放 issue**: 96 · **贡献者**: 6
+- **Star**: 902 · **Fork**: 31 · **开放 issue**: 96 · **贡献者**: 6
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 257 · **开放 PR**: 1 · **已关闭 issue**: 87 · **开放 issue**: 9 · **提交数**: 727
+- **发布数**: 19 · **已合并 PR**: 257 · **开放 PR**: 1 · **已关闭 issue**: 88 · **开放 issue**: 8 · **提交数**: 727
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 40 | 1 | 15 | 6 | 74 |
-| last60d | 2026-08-23 | 3 | 54 | 1 | 18 | 6 | 142 |
-| 90d | 2026-07-24 | 3 | 72 | 1 | 27 | 8 | 179 |
-| last180d | 2026-04-25 | 16 | 193 | 1 | 87 | 9 | 332 |
-| 360d | 2025-10-27 | 19 | 257 | 1 | 87 | 9 | 719 |
-| last720d | 2024-11-01 | 19 | 257 | 1 | 87 | 9 | 727 |
+| 30d | 2026-09-23 | 2 | 40 | 1 | 16 | 5 | 74 |
+| last60d | 2026-08-24 | 3 | 54 | 1 | 19 | 5 | 142 |
+| 90d | 2026-07-25 | 3 | 72 | 1 | 28 | 7 | 179 |
+| last180d | 2026-04-26 | 15 | 193 | 1 | 88 | 8 | 332 |
+| 360d | 2025-10-28 | 19 | 257 | 1 | 88 | 8 | 719 |
+| last720d | 2024-11-02 | 19 | 257 | 1 | 88 | 8 | 727 |
 
 ## Release 资产
 
@@ -66,6 +66,14 @@ x install elio
 | [elio_amd64.deb](https://github.com/elio-fm/elio/releases/download/v1.14.0/elio_amd64.deb) | 5.9 MiB | `runtime/deb/amd64` |
 | [elio_arm64.deb](https://github.com/elio-fm/elio/releases/download/v1.14.0/elio_arm64.deb) | 5.3 MiB | `runtime/deb/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/elio) 上共有 **7** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.14.0` | ✅ latest |
+
 ## 改进这些数据
 
 elio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `elio` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -75,4 +83,4 @@ elio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:08:39Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:17:33Z._
