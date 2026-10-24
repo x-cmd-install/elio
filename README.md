@@ -48,12 +48,12 @@ Total: **138,757** lines of code across **690** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 40 | 1 | 16 | 5 | 74 |
-| last60d | 2026-08-24 | 3 | 54 | 1 | 19 | 5 | 142 |
-| 90d | 2026-07-25 | 3 | 72 | 1 | 28 | 7 | 179 |
-| last180d | 2026-04-26 | 15 | 193 | 1 | 88 | 8 | 332 |
-| 360d | 2025-10-28 | 19 | 257 | 1 | 88 | 8 | 719 |
-| last720d | 2024-11-02 | 19 | 257 | 1 | 88 | 8 | 727 |
+| 30d | 2026-09-24 | 2 | 39 | 1 | 16 | 5 | 74 |
+| last60d | 2026-08-25 | 2 | 54 | 1 | 19 | 5 | 142 |
+| 90d | 2026-07-26 | 3 | 70 | 1 | 27 | 7 | 179 |
+| last180d | 2026-04-27 | 15 | 193 | 1 | 88 | 8 | 332 |
+| 360d | 2025-10-29 | 19 | 257 | 1 | 88 | 8 | 719 |
+| last720d | 2024-11-03 | 19 | 257 | 1 | 88 | 8 | 727 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **138,757** lines of code across **690** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/elio). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/elio). **4** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:17:32Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:53:14Z._
