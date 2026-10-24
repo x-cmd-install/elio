@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: elio
+  visiblename: elio
+  version: 1.14.0
+  origversion: null
+  status: newest
+  summary: Batteries-included terminal file manager with rich previews
 - repo: alt_p11
   srcname: elio
   binnames:
@@ -70,18 +77,11 @@
   srcname: sysutils/elio
   binname: elio
   visiblename: sysutils/elio
-  version: 1.13.0
-  origversion: 1.13.0_1
-  status: outdated
+  version: 1.14.0
+  origversion: null
+  status: newest
   summary: Snappy terminal file manager with rich previews and trash support
   maintainers:
     - miguelpr4242@gmail.com
   categories:
     - sysutils
-- repo: homebrew
-  srcname: elio
-  visiblename: elio
-  version: 1.14.0
-  origversion: null
-  status: newest
-  summary: Batteries-included terminal file manager with rich previews
