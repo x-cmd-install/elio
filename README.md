@@ -14,14 +14,14 @@ x install elio
 
 ## Code insight
 
-Total: **138,757** lines of code across **690** files in the top 5 languages.
+Total: **143,088** lines of code across **707** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 132,811 | 1,181 | 13,938 | 672 |
-| Toml | 5,682 | 195 | 1,513 | 14 |
+| Rust | 137,130 | 1,232 | 14,286 | 689 |
+| Toml | 5,691 | 202 | 1,515 | 14 |
 | RPMSpecfile | 124 | 0 | 28 | 1 |
-| Nix | 104 | 11 | 10 | 2 |
+| Nix | 107 | 13 | 10 | 2 |
 | Makefile | 36 | 0 | 2 | 1 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **138,757** lines of code across **690** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.14.0` (2026-10-19)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-25
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 903 · **Forks**: 31 · **Open issues**: 96 · **Contributors**: 6
+- **Stars**: 903 · **Forks**: 31 · **Open issues**: 97 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 257 · **Open PRs**: 2 · **Closed issues**: 88 · **Open issues**: 8 · **Commits**: 727
+- **Releases**: 19 · **Merged PRs**: 258 · **Open PRs**: 1 · **Closed issues**: 88 · **Open issues**: 9 · **Commits**: 747
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 35 | 2 | 15 | 5 | 34 |
-| last60d | 2026-08-26 | 2 | 54 | 2 | 19 | 5 | 140 |
-| 90d | 2026-07-27 | 3 | 66 | 2 | 26 | 7 | 164 |
-| last180d | 2026-04-28 | 15 | 191 | 2 | 85 | 8 | 316 |
-| 360d | 2025-10-30 | 19 | 257 | 2 | 88 | 8 | 719 |
-| last720d | 2024-11-04 | 19 | 257 | 2 | 88 | 8 | 727 |
+| 30d | 2026-09-26 | 2 | 33 | 1 | 15 | 6 | 54 |
+| last60d | 2026-08-27 | 2 | 55 | 1 | 19 | 6 | 160 |
+| 90d | 2026-07-28 | 3 | 65 | 1 | 26 | 8 | 184 |
+| last180d | 2026-04-29 | 14 | 190 | 1 | 83 | 9 | 336 |
+| 360d | 2025-10-31 | 19 | 258 | 1 | 88 | 9 | 739 |
+| last720d | 2024-11-05 | 19 | 258 | 1 | 88 | 9 | 747 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **138,757** lines of code across **690** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/elio). **4** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/elio). **5** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:57:45Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:04:18Z._
