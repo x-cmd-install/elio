@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: elio
+  visiblename: elio
+  version: 1.15.0
+  origversion: null
+  status: newest
+  summary: Batteries-included terminal file manager with rich previews
 - repo: alt_p11
   srcname: elio
   binnames:
@@ -22,7 +29,7 @@
   visiblename: elio
   version: 1.14.0
   origversion: 1.14.0-alt1
-  status: newest
+  status: outdated
   summary: Snappy, batteries-included terminal file manager
   maintainers:
     - amakeenk@altlinux.org
@@ -34,8 +41,8 @@
   srcname: elio
   binname: elio
   visiblename: elio
-  version: 1.14.0
-  origversion: 1.14.0-1
+  version: 1.15.0
+  origversion: 1.15.0-1
   status: newest
   summary: Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
   maintainers:
@@ -46,8 +53,8 @@
   srcname: elio-bin
   binname: elio-bin
   visiblename: elio-bin
-  version: 1.14.0
-  origversion: 1.14.0-1
+  version: 1.15.0
+  origversion: 1.15.0-1
   status: newest
   summary: Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support (prebuilt binary)
   maintainers:
@@ -70,7 +77,7 @@
   srcname: sysutils/elio
   binname: elio
   visiblename: sysutils/elio
-  version: 1.14.0
+  version: 1.15.0
   origversion: null
   status: newest
   summary: Snappy terminal file manager with rich previews and trash support
@@ -78,10 +85,3 @@
     - miguelpr4242@gmail.com
   categories:
     - sysutils
-- repo: homebrew
-  srcname: elio
-  visiblename: elio
-  version: 1.14.0
-  origversion: null
-  status: newest
-  summary: Batteries-included terminal file manager with rich previews
