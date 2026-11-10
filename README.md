@@ -14,11 +14,11 @@ x install elio
 
 ## Code insight
 
-Total: **148,610** lines of code across **724** files in the top 5 languages.
+Total: **148,793** lines of code across **724** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 142,645 | 1,323 | 14,768 | 706 |
+| Rust | 142,828 | 1,328 | 14,782 | 706 |
 | Toml | 5,694 | 218 | 1,515 | 14 |
 | RPMSpecfile | 128 | 0 | 29 | 1 |
 | Nix | 107 | 13 | 10 | 2 |
@@ -33,7 +33,7 @@ Total: **148,610** lines of code across **724** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.0` (2026-11-02)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-09
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **148,610** lines of code across **724** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 269 · **Open PRs**: 0 · **Closed issues**: 94 · **Open issues**: 8 · **Commits**: 761
+- **Releases**: 20 · **Merged PRs**: 271 · **Open PRs**: 0 · **Closed issues**: 95 · **Open issues**: 7 · **Commits**: 763
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 27 | 0 | 13 | 5 | 42 |
-| last60d | 2026-09-10 | 3 | 64 | 0 | 24 | 6 | 112 |
-| 90d | 2026-08-11 | 4 | 69 | 0 | 27 | 6 | 179 |
-| last180d | 2026-05-13 | 14 | 187 | 0 | 73 | 7 | 336 |
-| 360d | 2025-11-14 | 20 | 269 | 0 | 94 | 8 | 753 |
-| last720d | 2024-11-19 | 20 | 269 | 0 | 94 | 8 | 761 |
+| 30d | 2026-10-11 | 2 | 27 | 0 | 14 | 4 | 44 |
+| last60d | 2026-09-11 | 3 | 66 | 0 | 25 | 5 | 114 |
+| 90d | 2026-08-12 | 4 | 71 | 0 | 28 | 5 | 181 |
+| last180d | 2026-05-14 | 14 | 187 | 0 | 74 | 6 | 338 |
+| 360d | 2025-11-15 | 20 | 271 | 0 | 95 | 7 | 755 |
+| last720d | 2024-11-20 | 20 | 271 | 0 | 95 | 7 | 763 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:54:39Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:55:11Z._
