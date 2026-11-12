@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6103967,
       "digest": "sha256:8b7b2b82a281cfa6a3aa4633fe484f569303d422935685d9970f6eb1ee4e37aa",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-11-02T10:09:21Z",
       "updated_at": "2026-11-02T10:09:22Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.15.0/elio-1.15.0-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6796868,
       "digest": "sha256:f2594356e4ce97a61dcfc2e71dd2bbb5b743c68c0df6a3acf92ceb8f1529726d",
-      "download_count": 44,
+      "download_count": 46,
       "created_at": "2026-11-02T10:09:21Z",
       "updated_at": "2026-11-02T10:09:22Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.15.0/elio-1.15.0-x86_64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8286251,
       "digest": "sha256:068f486964901b7dc159f0d7e46783f7053732d1ed6322edb2ff8cf1eb0dfe72",
-      "download_count": 225,
+      "download_count": 232,
       "created_at": "2026-11-02T10:09:21Z",
       "updated_at": "2026-11-02T10:09:22Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.15.0/elio-1.15.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6335136,
       "digest": "sha256:6f9b369c47313a73884e1feb88123d444b3838f5cd9f8fb1d940c2bcaf099c8f",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-02T10:09:21Z",
       "updated_at": "2026-11-02T10:09:22Z",
       "browser_download_url": "https://github.com/elio-fm/elio/releases/download/v1.15.0/elio_amd64.deb"
