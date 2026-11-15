@@ -47,7 +47,7 @@
   binname: elio-bin
   visiblename: elio-bin
   version: 1.15.0
-  origversion: 1.15.0-1
+  origversion: 1.15.0-2
   status: newest
   summary: Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support (prebuilt binary)
   maintainers:
