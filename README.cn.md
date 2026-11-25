@@ -38,7 +38,7 @@ x install elio
 
 ## 流行度
 
-- **Star**: 921 · **Fork**: 32 · **开放 issue**: 110 · **贡献者**: 8
+- **Star**: 920 · **Fork**: 32 · **开放 issue**: 110 · **贡献者**: 8
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install elio
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 22 | 0 | 8 | 5 | 25 |
-| last60d | 2026-09-25 | 3 | 59 | 0 | 26 | 8 | 92 |
-| 90d | 2026-08-26 | 3 | 78 | 0 | 30 | 8 | 188 |
-| last180d | 2026-05-28 | 11 | 176 | 0 | 70 | 9 | 323 |
-| 360d | 2025-11-29 | 20 | 281 | 0 | 100 | 10 | 767 |
-| last720d | 2024-12-04 | 20 | 281 | 0 | 100 | 10 | 775 |
+| 30d | 2026-10-26 | 1 | 22 | 0 | 8 | 5 | 25 |
+| last60d | 2026-09-26 | 3 | 56 | 0 | 26 | 8 | 92 |
+| 90d | 2026-08-27 | 3 | 78 | 0 | 30 | 8 | 188 |
+| last180d | 2026-05-29 | 11 | 174 | 0 | 70 | 9 | 323 |
+| 360d | 2025-11-30 | 20 | 281 | 0 | 100 | 10 | 767 |
+| last720d | 2024-12-05 | 20 | 281 | 0 | 100 | 10 | 775 |
 
 ## Release 资产
 
@@ -66,14 +66,6 @@ x install elio
 | [elio_amd64.deb](https://github.com/elio-fm/elio/releases/download/v1.15.0/elio_amd64.deb) | 6.0 MiB | `runtime/deb/amd64` |
 | [elio_arm64.deb](https://github.com/elio-fm/elio/releases/download/v1.15.0/elio_arm64.deb) | 5.4 MiB | `runtime/deb/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/elio) 上共有 **7** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.15.0` | ✅ latest |
-
 ## 改进这些数据
 
 elio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `elio` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -83,4 +75,4 @@ elio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:08:48Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:30:43Z._

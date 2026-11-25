@@ -38,7 +38,7 @@ Total: **150,541** lines of code across **725** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 921 · **Forks**: 32 · **Open issues**: 110 · **Contributors**: 8
+- **Stars**: 920 · **Forks**: 32 · **Open issues**: 110 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **150,541** lines of code across **725** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 22 | 0 | 8 | 5 | 25 |
-| last60d | 2026-09-25 | 3 | 59 | 0 | 26 | 8 | 92 |
-| 90d | 2026-08-26 | 3 | 78 | 0 | 30 | 8 | 188 |
-| last180d | 2026-05-28 | 11 | 176 | 0 | 70 | 9 | 323 |
-| 360d | 2025-11-29 | 20 | 281 | 0 | 100 | 10 | 767 |
-| last720d | 2024-12-04 | 20 | 281 | 0 | 100 | 10 | 775 |
+| 30d | 2026-10-26 | 1 | 22 | 0 | 8 | 5 | 25 |
+| last60d | 2026-09-26 | 3 | 56 | 0 | 26 | 8 | 92 |
+| 90d | 2026-08-27 | 3 | 78 | 0 | 30 | 8 | 188 |
+| last180d | 2026-05-29 | 11 | 174 | 0 | 70 | 9 | 323 |
+| 360d | 2025-11-30 | 20 | 281 | 0 | 100 | 10 | 767 |
+| last720d | 2024-12-05 | 20 | 281 | 0 | 100 | 10 | 775 |
 
 ## Release assets
 
@@ -66,14 +66,6 @@ Total: **150,541** lines of code across **725** files in the top 5 languages.
 | [elio_amd64.deb](https://github.com/elio-fm/elio/releases/download/v1.15.0/elio_amd64.deb) | 6.0 MiB | `runtime/deb/amd64` |
 | [elio_arm64.deb](https://github.com/elio-fm/elio/releases/download/v1.15.0/elio_arm64.deb) | 5.4 MiB | `runtime/deb/arm64` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/elio). **5** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.15.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `elio` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +75,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:08:47Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:30:43Z._
