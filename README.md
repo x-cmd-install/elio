@@ -48,12 +48,12 @@ Total: **150,576** lines of code across **725** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 22 | 0 | 9 | 5 | 26 |
-| last60d | 2026-09-28 | 3 | 52 | 0 | 26 | 8 | 93 |
-| 90d | 2026-08-29 | 3 | 79 | 0 | 31 | 8 | 189 |
-| last180d | 2026-05-31 | 10 | 175 | 0 | 69 | 9 | 324 |
-| 360d | 2025-12-02 | 20 | 282 | 0 | 101 | 10 | 768 |
-| last720d | 2024-12-07 | 20 | 282 | 0 | 101 | 10 | 776 |
+| 30d | 2026-10-29 | 1 | 21 | 0 | 8 | 5 | 0 |
+| last60d | 2026-09-29 | 3 | 52 | 0 | 26 | 8 | 0 |
+| 90d | 2026-08-30 | 3 | 77 | 0 | 31 | 8 | 0 |
+| last180d | 2026-06-01 | 10 | 175 | 0 | 69 | 9 | 0 |
+| 360d | 2025-12-03 | 20 | 282 | 0 | 101 | 10 | 0 |
+| last720d | 2024-12-08 | 20 | 282 | 0 | 101 | 10 | 776 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for elio lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:02:02Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:22:39Z._
